@@ -92,6 +92,6 @@ public class Juego_Adivina_el_numero_JAAS {
             resp=entrada.next();
         }while(resp.equalsIgnoreCase("si"));
         
-    }
+    } // Intentando hacer el request soy RSZM20, archivo de jasx22
     
 }
